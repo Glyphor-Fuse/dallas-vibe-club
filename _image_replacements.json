@@ -1,0 +1,12 @@
+{
+  "replacements": [],
+  "stats": {
+    "imageUrlsFound": 7,
+    "validatedCount": 7,
+    "brokenCount": 0,
+    "replacedCount": 0,
+    "timedOutCount": 0,
+    "unknownCount": 2
+  },
+  "timestamp": "2026-01-14T03:01:20.199Z"
+}
